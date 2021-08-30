@@ -1,3 +1,4 @@
+//java program to find the fact of given number.
 import util.java.Scanner;
 public class Main {
 public static void main(String [] args) {
