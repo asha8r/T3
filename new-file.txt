@@ -6,5 +6,6 @@
   cin>>a>>b;
   sum = a + b;
   cout<<"sum of 2 no :"<<sum;
+  return 1;
 }
   
